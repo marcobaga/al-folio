@@ -1,18 +1,15 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Rolinek":
+  - firstname: ["Michal"]
+    url: https://mrolinek.github.io
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Martius":
+  - firstname: ["Georg"]
+    url: https://www.is.mpg.de/person/gmartius
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Christen":
+  - firstname: ["Sammy", "Sammy Joe"]
+    url: https://ait.ethz.ch/people/sammyc/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Hilliges": 
+  - firstname: ["Otmar"]
+    url: https://ait.ethz.ch/people/hilliges/
