@@ -32,7 +32,7 @@ Outside of RL, I have some experience in representation learning and causality, 
 - If you play chess, and have mercy towards beginners, you can message <a href="https://lichess.org/@/bagaserio">me</a>.
 - If you do not like this website, I'd appreciate some feedback :)
 
-## pub
+<!-- ## pub -->
 
 <!---
 TODO:
