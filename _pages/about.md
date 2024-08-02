@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: PhD student in RL, currently at the <a href="https://al.is.mpg.de/">Autonomous Learning Group</a>.
+description: PhD student in RL, currently at the <a href="https://las.inf.ethz.ch/">Learning and Adaptive Systems</a> group.
 
 profile:
   align: right
